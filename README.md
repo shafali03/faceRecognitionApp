@@ -1,1 +1,2 @@
 # faceRecognitionApp
+Build with React
